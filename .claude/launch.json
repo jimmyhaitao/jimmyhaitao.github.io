@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "backend",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/Users/liaohaitao/Crypto Dashboard/backend/server.js"],
+      "port": 3001
+    }
+  ]
+}
